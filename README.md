@@ -1,12 +1,12 @@
 # The Legend of The Crimson King
 
-**This will not be a finished game it was just for a school project**
+This game was created by a team of three for an advanced data stuctures course at Washington State University.
 
-A stylized game based on an island in the midst of terror.
+You play as a young fantasy hero from the Crimson Kingdom on a quest to defeat the evil Husky King.
 
-Built in two weeks for our end of the year project in a C/C++ Data Structures class, using SFML, (team of three).
+This was created with C++ and SFML within Visual Studio 2019.
 
-Thanks to Keagen for making the trailer!
+Trailer:
 https://www.youtube.com/watch?v=p0F573dvcco
 
 # BUILD
@@ -14,14 +14,14 @@ Currently, there is no build for this yet. To run the game you'll need to instal
 To install SFML: https://www.youtube.com/watch?v=YfMQyOw1zik
 
 # NOTE
-- Collisions are not **enabled** in the game, they were scrapped last minute on the main island
-- Sounds were also scrapped last minute due to an error
-- The game will close if you die / win
+- Collisions are not currently enabled.
+- Audio is not currently enabled.
+- The program closes if you die or beat the final boss.
 
 # ARTWORK
-- Most artwork in this game is reused from Nintendos Zelda: LTTP / various other sources
-- Additional artwork was made by Keagen 
-
+- Most artwork in this game is reused from Nintendo's 'The Legend of Zelda: A Link to the Past'
+- Some custom sprite sheets and animations were created by me.
+- 
 # TOOLS
 - Visual Studio 2019 
 - Tiled 
