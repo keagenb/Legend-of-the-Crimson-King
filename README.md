@@ -1,6 +1,6 @@
 # The Legend of The Crimson King
 
-This game was created by a team of three for an advanced data stuctures course at Washington State University.
+This game was created by a team of three for an advanced data structures course at Washington State University.
 
 You play as a young fantasy hero from the Crimson Kingdom on a quest to defeat the evil Husky King.
 
